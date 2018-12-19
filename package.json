@@ -1,0 +1,22 @@
+{
+  "name": "@parakh/core",
+  "version": "1.0.0",
+  "description": "parakh core js module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parakhme/core.git"
+  },
+  "keywords": [
+    "parakh"
+  ],
+  "author": "Kevendra Patidar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parakhme/core/issues"
+  },
+  "homepage": "https://github.com/parakhme/core#readme"
+}
